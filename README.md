@@ -1,4 +1,4 @@
-lab-polymorphism-2019
+lab-polymorphism-2019b
 =====================
 
 A lab on polymorphism, based on an old lab from _The Tao of Java_, itself
